@@ -1,3 +1,52 @@
+# ⏳ Delay Button App
+
+A simple and clean web application built with **React**, **TypeScript**, **TailwindCSS**, and **Vite**, allowing users to send a message that appears after a specified delay in seconds.
+
+---
+
+## 🌐 Live Demo
+
+Check out the live demo here:
+
+👉 [Delay Button App Demo](https://your-deployment-url.com)
+
+---
+
+## 🚀 Features
+
+- 📝 Input a custom message
+- ⌛ Set a delay in seconds
+- 🕓 Message appears after the delay
+- 🎨 Styled with TailwindCSS
+- ⚡️ Fast and lightweight with Vite
+- ✅ Type-safe with TypeScript
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+---
+
+## 📦 Installation
+
+
+### Clone the repository
+git clone https://github.com/your-username/delay-button-app.git
+cd delay-button-app
+
+### Install dependencies
+npm install
+
+### Start development server
+npm run dev
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
